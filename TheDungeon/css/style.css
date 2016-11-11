@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Ceviche+One');
+@import url('https://fonts.googleapis.com/css?family=Fruktur');
+
+#playbutton { 
+  display: block; 
+  margin: 0 auto; 
+  border: 25px; 
+  background: #1a3300; 
+  font-size: 60px;  
+  box-shadow: 0 8px #0d1a00; 
+  border-radius: 15px;
+  font-family: fruktur;
+  color: black;
+    border: solid black;
+} 
+#playbutton:active { 
+  background-color: #284d00;
+  box-shadow: 0 4px #666;
+  transform: translateY(4px);
+    border: solid black;
+} 
+
+#playbutton:hover {background-color: #284d00;
+  border: solid black;}
+
+div{
+  border-radius: 20px;
+  border: solid black;
+  background-color: #4d2600;
+  
+   
+}
+
+div{
+ font-size: 35px;
+  text-align: center;
+  font-family: fruktur;
+}
+
+body {
+  background-image: url(http://www.zorglubb.net/grimrock/images/secret_doors_extra/dungeon_secret_door_drain_open.jpg);
+  background-size:cover
+}
+#buttonplay { 
+  display: block; 
+  margin: 0 auto; 
+  border: 25px; 
+  background: #1a3300; 
+  font-size: 60px;  
+  box-shadow: 0 8px #0d1a00; 
+  border-radius: 15px;
+  font-family: fruktur;
+  color: black;
+  border: solid black;
+} 
+#buttonplay:active { 
+  background-color: #284d00;
+  box-shadow: 0 4px #666;
+  transform: translateY(4px);
+    border: solid black;
+} 
+
+#buttonplay:hover {background-color: #284d00;
+  border: solid black;}
+
+.answers{
+  width: 200px;
+}
+
+p{
+  font-size: 20px;
+  
+}
+
+p1 {
+  font-size: 25px
+}
